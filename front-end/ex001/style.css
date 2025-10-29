@@ -1,0 +1,36 @@
+/*seletor {propriedade:valor;}*/
+p {
+    font-size: 10px;
+    color: blueviolet;
+}
+
+p.direita{
+    text-align: right;
+}
+
+p.esquerda{
+    text-align: left;
+}
+
+p.centro {
+    text-align: center;
+}
+
+.centro {
+    text-align: center;
+}
+
+table {
+     width: 100%;
+    border: 1;
+}
+
+a:link {
+    color: red;
+}
+a:hover{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
